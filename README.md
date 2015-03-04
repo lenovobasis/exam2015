@@ -25,6 +25,8 @@ ___
 #2. 下载考题
 登录github，访问[https://github.com/lenovobasis/exam2015] fork考题项目
 
+以下操作在cloud9中完成：
+
 登录cloud9创建一个公开项目exam2015，使用C/C++的Hosting。
 
 share给考官，考官的id为：lenovobasis
@@ -33,10 +35,11 @@ share给考官，考官的id为：lenovobasis
 
     git clone https://github.com/<yourgithubname>/exam2015.git
 
-#5. 编程实践
-编辑exam.c(c语言)或exam.cc(C++语言)，根据题目意思完成编程。
 
-通过bash命令行编译和执行文件并输出结果
+#5. 编程实践(cloud9中操作)
+编辑exam.c(c语言)、exam.cc(C++语言)或Exam.java(Java语言)，根据题目意思完成编程。
+
+通过bash命令行编译和执行文件并输出结果(您可以用java/C/C++语言编写)
 
 
 #4. 答题
@@ -52,5 +55,7 @@ share给考官，考官的id为：lenovobasis
 #6. 单独联系考官，提供您的github地址，由考官进行评卷
 
 
-#7. 考官联系面试
+#7. 考官联系面试(当天下午)
 
+
+再次感谢您的参与
