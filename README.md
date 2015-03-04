@@ -48,7 +48,7 @@ share给考官，考官的id为：lenovobasis
 
 #5. 提交考题(最晚提交时间为12:00AM)
 
-    git add *.md *.c *.cc
+    git add *
     git commit -m "your comment"
     git push 
 
